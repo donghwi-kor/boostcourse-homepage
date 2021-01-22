@@ -1,0 +1,42 @@
+* {
+    background-color: ;
+}
+
+body {
+    background-color: bisque;
+}
+
+.top {
+    width:100%;
+    background-color: white;   
+    display: flex;
+    justify-content:flex-end;
+    align-items: center;
+    padding: 5px 10px;
+        
+
+}
+
+.nav_menu {
+    margin-right: 10px;
+}
+
+
+.top li {
+    list-style: none;
+    padding: 10px 40px;
+    display: inline-flex;
+    background-color: bisque;
+
+}
+
+.container {
+    position: center;
+
+}
+
+.container img {
+    width: 100%;
+    
+    
+}
